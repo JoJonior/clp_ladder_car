@@ -71,6 +71,7 @@ A atividade solicitada foi:
 
 > Desenvolver um diagrama Ladder de controle para um carrinho de transporte automatizado seguindo a sequência descrita acima.
 
+![Atividade proposta](Imgs/ATV_PROPOSTA.jpeg)
 ---
 
 ## 🗂️ Observações
