@@ -4,6 +4,8 @@ Este projeto simula um sistema de automação industrial de um **carrinho de tra
 
 ---
 
+![Foto do CLP funcionando com codigo Ladder](Imgs/FOTO_CLP.png)
+
 ## 📌 Descrição do Processo
 
 O sistema funciona conforme a seguinte sequência operacional:
